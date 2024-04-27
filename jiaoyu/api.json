@@ -1,4 +1,4 @@
-{"spider":"./jiaoyu/spider.jar;md5;461266c1d1dd71dabf47253ece6c2317",
+{"spider":"https://github.com/cucumba226/123/blob/e6904fe98bccfaefa7bf3690a1aedc7240abf585/jiaoyu/spider.jar;md5;461266c1d1dd71dabf47253ece6c2317",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"兔小贝","name":"兔小贝","type":3,"api":"./js/drpy.min.js","ext":"./js/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
