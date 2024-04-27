@@ -1,8 +1,7 @@
 {"spider":"./jiaoyu/spider.jar;md5;461266c1d1dd71dabf47253ece6c2317",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
-	[
-	{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"./jiaoyu/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+	[{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"jar":"./jiaoyu/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
 	{"key":"小学课堂","name":"哔哩｜小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/json/小学课堂.json"},
 	{"key":"初中课堂","name":"哔哩｜初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/json/初中课堂.json"},
 	{"key":"高中教育","name":"哔哩｜高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./jiaoyu/json/高中课堂.json"},
