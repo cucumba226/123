@@ -139,6 +139,16 @@
       "ext": "./lib/外语课堂.json"
     },
     {
+      "key": "dr_低端",
+      "name": "🏠 低端(drpy) ",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/ddys.js"
+    },
+    {
       "key": "csp_XYQHiker_爱看影视",
       "name": "🏠 爱看 ",
       "type": 3,
