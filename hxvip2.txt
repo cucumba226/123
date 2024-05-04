@@ -48,6 +48,96 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{
+      "key": "小灯塔人文",
+      "name": "哔哩｜小灯塔人文 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔人文.json"
+    },
+    {
+      "key": "小灯塔百科",
+      "name": "哔哩｜小灯塔百科 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔百科.json"
+    },
+    {
+      "key": "小灯塔科学",
+      "name": "哔哩｜小灯塔科学 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔科学.json"
+    },
+    {
+      "key": "小灯塔地理",
+      "name": "哔哩｜小灯塔地理 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔地理.json"
+    },
+    {
+      "key": "小灯塔国学",
+      "name": "哔哩｜小灯塔国学 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔国学.json"
+    },
+    {
+      "key": "小学课堂",
+      "name": "哔哩｜小学课堂 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小学课堂.json"
+    },
+    {
+      "key": "初中课堂",
+      "name": "哔哩｜初中课堂 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/初中课堂.json"
+    },
+    {
+      "key": "高中课堂",
+      "name": "哔哩｜高中课堂 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/高中课堂.json"
+    },
+    {
+      "key": "外语课堂",
+      "name": "哔哩｜外语课堂 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/外语课堂.json"
+    },
     {
       "key": "csp_XYQHiker_爱看影视",
       "name": "🏠 爱看 ",
