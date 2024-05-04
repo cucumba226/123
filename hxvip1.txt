@@ -3,11 +3,11 @@
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "lives": [
     {
-      "name":"live2",
-      "type":0,
-      "playerType":1,
-      "url":"./live.txt"
-    },
+            "name": "直播",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/Newtxin/iptv/main/0504.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        },
     {
       "name": "ipv6",
       "type": 0,
