@@ -2,21 +2,8 @@
   "spider": "./yydf.jar;md5;f362e434223a9b67903f9fe0c1f98c40",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "lives": [
-    {
-      "name":"live2",
-      "type":0,
-      "playerType":1,
-      "url":"./live.txt"
-    },
-    {
-      "name": "ipv6",
-      "type": 0,
-      "url": "./lib/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    {"name":"tvlive","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":2},
+    {"name":"嗅探","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"}
   ],
   "sites": [
     {
