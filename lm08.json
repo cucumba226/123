@@ -300,6 +300,56 @@
             "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
         },
         {
+      "key": "小灯塔人文",
+      "name": "哔哩｜小灯塔人文 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔人文.json"
+    },
+    {
+      "key": "小灯塔百科",
+      "name": "哔哩｜小灯塔百科 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔百科.json"
+    },
+    {
+      "key": "小灯塔科学",
+      "name": "哔哩｜小灯塔科学 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔科学.json"
+    },
+    {
+      "key": "小灯塔地理",
+      "name": "哔哩｜小灯塔地理 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔地理.json"
+    },
+    {
+      "key": "小灯塔国学",
+      "name": "哔哩｜小灯塔国学 ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小灯塔国学.json"
+    },
+        {
             "key": "Aid",
             "name": "🚑急救┃教学",
             "type": 3,
