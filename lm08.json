@@ -82,7 +82,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"
+            "ext": "./json/nmys.json"
         },
         {
             "key": "低端",
@@ -135,8 +135,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/荐片.js"
         },
         {
             "key": "新6V",
@@ -177,8 +177,8 @@
             "key": "酷奇",
             "name": "🎤酷奇┃MV",
             "type": 3,
-            "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/酷奇MV.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -199,7 +199,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/MTV.json"
+            "ext": "./json/MTV.json"
         },
         {
             "key": "Bili",
@@ -213,7 +213,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/bilibili.json"
+            "ext": "./json/bilibili.json"
         },
         {
             "key": "Biliych",
@@ -227,14 +227,14 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/biliych.json"
+            "ext": "./json/biliych.json"
         },
         {
             "key": "dr_兔小贝",
             "name": "📚儿童┃启蒙",
             "type": 3,
-            "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/兔小贝.js",
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/兔小贝.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -255,7 +255,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/少儿教育.json"
+            "ext": "./json/少儿教育.json"
         },
         {
             "key": "小学课堂",
@@ -269,7 +269,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/小学课堂.json"
+            "ext": "./json/小学课堂.json"
         },
         {
             "key": "初中课堂",
@@ -283,7 +283,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/初中课堂.json"
+            "ext": "./json/初中课堂.json"
         },
         {
             "key": "高中教育",
@@ -297,7 +297,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
+            "ext": "./json/高中课堂.json"
         },
         {
       "key": "小灯塔人文",
