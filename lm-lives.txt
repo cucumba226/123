@@ -1,5 +1,6 @@
 央视,#genre#
 
+CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://1.30.18.218:20080/hls/1/index.m3u8
 CCTV1,http://113.26.202.86:1099/home/storager/ca336e18-d67e-4890-84ba-f3a376933b4a/live/0001_1.m3u8
 CCTV1,http://123.14.85.141:8888/hls/1/index.m3u8
