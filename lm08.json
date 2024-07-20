@@ -62,19 +62,17 @@
             "changeable": 0
         },
         {
-            "key": "MTV",
-            "name": "🎧明星┃MV",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "./json/MTV.json"
-        },
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCz",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czys.pro/"
+       },
         {
             "key": "Bili",
             "name": "🅱哔哔┃合集",
